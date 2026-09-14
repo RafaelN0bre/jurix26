@@ -1,0 +1,6 @@
+[submodule "anotadorJurix26"]
+	path = anotadorJurix26
+	url = git@github.com:fabraz/anotadorJurix26.git
+[submodule "solverJurix26"]
+	path = solverJurix26
+	url = git@github.com:RafaelN0bre/solverJurix26.git
