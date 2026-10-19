@@ -17,6 +17,7 @@ __pycache__/
 # Reproducible reports and figure exports
 /docs/graphs/
 /docs/figures/
+reviews/
 
 # Document build products
 *.aux
@@ -27,3 +28,6 @@ __pycache__/
 *.fdb_latexmk
 *.synctex.gz
 /docs/**/*.pdf
+
+# Article manuscript
+/jurix26.pdf

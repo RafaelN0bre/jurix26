@@ -2,7 +2,7 @@
 
 Research repository for the JURIX 2026 project on legal annotation and executable causal argumentation. It contains the annotation application and ASPIC+ solver as Git submodules, with shared documentation, bibliography and local case data.
 
-The case study is RE 608.880/MT (STF Theme 362), concerning state liability for a crime committed by an escaped prisoner. The formalization separates cause-in-fact (CIF) from legally relevant cause (LRC) and compares CIF → LRC with LRC → CIF → LRC execution.
+The case study is RE 608.880/MT (STF Theme 362), concerning state liability for a crime committed by an escaped prisoner. The formalization separates cause-in-fact (CIF) from legally relevant cause (LRC) and runs them in the CIF → LRC order.
 
 ## Repository structure
 
